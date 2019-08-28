@@ -23,16 +23,6 @@ Webpack + Vue2.x + vue-cli +  vue-router + vuex + axios + element-ui
 
 
 
-### 手机微信，或浏览器扫码查看
-
-![](./static/url.png)
-
-
-
-电脑端查看
-
-https://oeeo.github.io/shoppingApp/dist/index.html
-
 ## Build Setup
 
 ``` bash
@@ -49,7 +39,6 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
 
